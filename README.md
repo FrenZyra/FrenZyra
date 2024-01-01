@@ -1,10 +1,12 @@
 ### 🔰 Welcome To My GitHub Profile 
-- 🔭 **I’m 15 Years Old | 08 Mei 2008**
-- 🌱 **I’m Currently Learning JavaScript**
-- 👯 **I’m Looking To Collaborate On Anyone**
+- 👤 **I'm Frenzy The Nightmares**
+- 🔭 **I'm 15 Years Old | 08 Mei 2008**
+- 🌱 **I'm Currently Learning JavaScript**
+- 👯 **I'm Looking To Collaborate On Anyone**
 - ⚡ **I'm A Vocational High School Students**
-
 <p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/frenzyra&count_bg=%2379C83D&title_bg=black&icon=apachecassandra.svg&icon_color=black&title=Profile+Views&edge_flat=true"/></a>
+<br>
   <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=GitHub+Stats" width="100%">
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyra&theme=vision-friendly-dark&bg_color=071A2C" />
