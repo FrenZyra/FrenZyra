@@ -24,7 +24,7 @@
 <details align="center"><summary><b>Contact Me!</b></summary><br>
 <p align="center">
   <a href="https://wa.me/6289632051115?text=Assalamualaikum+<3" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=black&edge_flat=false" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=272B33&edge_flat=false" alt="WhatsApp"/>
   </a>
 </p>
 </details>
