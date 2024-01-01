@@ -18,8 +18,8 @@
 const Me = require("Frenzy-Client")
 const Frenzy = new Me()
 const { 
-     from,
-     message
+     From,
+     Message
 } = Frenzy
 const Profile = {
      Name: "Frenzy",
@@ -27,7 +27,7 @@ const Profile = {
      Hobby: "Playing Music","Games","Coding",
      Skills: "Copas ( Pro )"
 }
-return FrenZyra.sendMessage(from, Profile, message)
+return FrenZyra.sendMessage(From, Profile, Message)
 ```
 <br>
 
