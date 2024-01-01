@@ -5,8 +5,8 @@
 - ⚡ Fun fact: Tachyons, if they exist, would always travel faster than the speed of light. Unlike ordinary particles that require more and more energy to approach the speed of light. 
 
 <p align="center">
-  <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="50%">
-  <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="50%">
+  <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="100%">
+  <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
 </p>
 
 <h2 align="center"><i><small>Hello Friends👋</h2>
@@ -72,11 +72,11 @@ My Partner:
 <details align="center"><summary><b>Github Statistics</b></summary><br>
   
 <div align="center">
-<a href="arskyy"><img src="https://komarev.com/ghpvc/?username=arskyy&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="arskyy" /></a>
+<a href="arskyy"><img src="https://komarev.com/ghpvc/?username=frenzyra&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="frenzyra" /></a>
 <br>
-<a href="https://github.com/arskyy"><img src="https://github-readme-stats.vercel.app/api?username=arskyy&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
-<a href="https://github.com/arskyy"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadly%20ID&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
+<a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arskyy&bg_color=071A2C" />
-<a href="https://github.com/arskyy/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arskyy&theme=onedark" /></a>
+<a href="https://github.com/frenzyra/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frenzyra&theme=onedark" /></a>
 </div>
 </details>
