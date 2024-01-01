@@ -5,8 +5,8 @@
 - ⚡ Fun fact: Tachyons, if they exist, would always travel faster than the speed of light. Unlike ordinary particles that require more and more energy to approach the speed of light. 
 
 <p align="center">
-  <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=FrenZyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="50%">
-  <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenZyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="50%">
+  <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="50%">
+  <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="50%">
 </p>
 
 <h2 align="center"><i><small>Hello Friends👋</h2>
