@@ -5,11 +5,9 @@
 - ⚡ **I'm A Vocational High School Students**
 
 <p align="center">
-<a href="Frenzy"><img src="https://komarev.com/ghpvc/?username=frenzyra&label=Total%20Profile%20Visitor&color=ff00ff&style=for-the-badge" alt="frenzyra" />
-</a>
-  <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="100%">
+  <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=GitHub+Stats" width="100%">
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyra&bg_color=071A2C" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyra&theme=vision-friendly-dark&bg_color=071A2C" />
 <a href="https://github.com/frenzyra/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frenzyra&theme=onedark">
 </p>
 
@@ -48,16 +46,4 @@ return FrenZyra.sendMessage(from, Profile, message)
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
   </a>
 </p>
-</details>
-
-<details align="center"><summary><b>Github Statistics</b></summary><br>
-  
-<div align="center">
-
-<br>
-<a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
-<a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyra&bg_color=071A2C" />
-<a href="https://github.com/frenzyra/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frenzyra&theme=onedark" /></a>
-</div>
 </details>
