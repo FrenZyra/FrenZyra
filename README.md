@@ -2,19 +2,17 @@
 - 🔭 **I’m 15 Years Old | 08 Mei 2008**
 - 🌱 **I’m Currently Learning JavaScript**
 - 👯 **I’m Looking To Collaborate On Anyone**
-- ⚡ **I'm Currently Studying At A Vocational High School.**
+- ⚡ **I'm A Vocational High School Students**
 
 <p align="center">
   <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="100%">
   <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
 </p>
 
-<h2 align="center"><i><small>Hello Friends👋</h2>
-<h3 align="center">Informasi</h3>
-
+<h2>‎</h2>
+‎
+‎
 ```rb
-// Tolong Jangan Dibully:)
-
 const Me = require("arsky-client")
 const Arsky = new Me()
 const { 
