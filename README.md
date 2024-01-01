@@ -5,7 +5,7 @@
 - 👯 **I'm Looking To Collaborate On Anyone**
 - ⚡ **I'm A Vocational High School Students**
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23272B33&title_bg=%23272B33&icon=azurefunctions.svg&icon_color=%23FFFFFF&title=FrenZyra+Visitors&edge_flat=true"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFrenZyra&count_bg=%23FF0000&title_bg=%23000000&icon=azurefunctions.svg&icon_color=%23FF0000&title=FrenZyra+Visitors&edge_flat=false"/></a>
 <br>
   <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=GitHub+Stats" width="100%">
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
