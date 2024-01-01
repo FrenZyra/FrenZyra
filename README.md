@@ -13,26 +13,6 @@
 <a href="https://github.com/frenzyra/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frenzyra&theme=onedark" />
 </p>
 
-```rb
-
-// Please Stop Bullying Me :)
-
-const Me = require("Frenzy-Client")
-const Frenzy = new Me()
-const { 
-     From,
-     Message
-} = Frenzy
-const Profile = {
-     Name: "Frenzy",
-     Status: "Students Of High School",
-     Hobby: "Playing Music","Games","Coding",
-     Skills: "Copas ( Pro )"
-}
-return FrenZyra.sendMessage(From, Profile, Message)
-```
-<br>
-
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Node.js-%2312100E.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=black" alt="Node.js"/>
