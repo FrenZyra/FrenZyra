@@ -9,47 +9,26 @@
   <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
 </p>
 
-<h2>‎</h2>
-‎
-‎
 ```rb
-const Me = require("arsky-client")
-const Arsky = new Me()
+
+// Please Stop Bullying Me :)
+
+const Me = require("Frenzy-Client")
+const Frenzy = new Me()
 const { 
      from,
      message
-} = Arsky
+} = Frenzy
 const Profile = {
     name: "Arsky",
     status: "Student Of High School",
-    hobby: "Playing Music",
+    hobby: "Playing Music","Games","Coding",
     skill: "Copas ( Pro )"
 }
-return Arsky.sendMessage(from, Profile, message)
+return FrenZyra.sendMessage(from, Profile, message)
 ```
 <br>
 
-<h3 align="center">Big Thanks To</h3>
-  
-```rb
-Master:
-- Mrhrtz
-- Hexagonz
-- Vinz Dev
-
-Unix Creator:
-- Hardianto
-- Fajar Ihsana
-- Vean
-- Arsky
-
-My Partner:
-- Senkuu ( Rapa )
-- KizaKiXD
-- Diel
-- Ruls
-```
-  
 <p align="center">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
     <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -70,11 +49,11 @@ My Partner:
 <details align="center"><summary><b>Github Statistics</b></summary><br>
   
 <div align="center">
-<a href="arskyy"><img src="https://komarev.com/ghpvc/?username=frenzyra&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="frenzyra" /></a>
+<a href="Frenzy"><img src="https://komarev.com/ghpvc/?username=frenzyra&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="frenzyra" /></a>
 <br>
 <a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
 <a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arskyy&bg_color=071A2C" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyra&bg_color=071A2C" />
 <a href="https://github.com/frenzyra/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frenzyra&theme=onedark" /></a>
 </div>
 </details>
