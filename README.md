@@ -1,8 +1,8 @@
-### 👋 Welcome to my github profile
-- 🔭 I’m currently working on bedrock scripting
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on PT ISI
-- ⚡ Fun fact: Tachyons, if they exist, would always travel faster than the speed of light. Unlike ordinary particles that require more and more energy to approach the speed of light. 
+### 🔰 Welcome To My GitHub Profile 
+- 🔭 **I’m 15 Years Old | 08 Mei 2008**
+- 🌱 **I’m Currently Learning JavaScript**
+- 👯 **I’m Looking To Collaborate On Anyone**
+- ⚡ **I'm Currently Studying At A Vocational High School.**
 
 <p align="center">
   <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="100%">
