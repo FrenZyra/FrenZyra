@@ -36,7 +36,7 @@ return FrenZyra.sendMessage(from, Profile, message)
     <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
     <img src="https://img.shields.io/badge/OS-Linux-black?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-black?&logo=Windows" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-black?&logo=visual%20studio%20code&logoColor=black" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-black?&logo=visual%20studio%20code&logoColor=black&theme=onedark" />
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
   <br>
