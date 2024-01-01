@@ -32,14 +32,13 @@ return FrenZyra.sendMessage(from, Profile, message)
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-    <img src="https://img.shields.io/badge/OS-Linux-black?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-black?&logo=Windows" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-black?&logo=visual%20studio%20code&logoColor=black&theme=onedark" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+<img src="https://img.shields.io/badge/JavaScript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-%2312100E.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=black" alt="Node.js"/>
+<img src="https://img.shields.io/badge/OS-Linux-%2312100E.svg?&style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/OS-Windows-%2312100E.svg?&style=for-the-badge&logo=windows&logoColor=white&color=black" alt="Windows"/>
+<img src="https://img.shields.io/badge/Sublime-%2312100E.svg?&style=for-the-badge&logo=sublime-text&logoColor=white&color=black" alt="Sublime"/>
 </p>
-  <br>
+<br>
 <details align="center"><summary><b>Contact Me!</b></summary><br>
 <p align="center">
   <a href="https://wa.me/6289632051115?text=Assalamualaikum+<3" target="_blank">
