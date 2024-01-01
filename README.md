@@ -1,4 +1,4 @@
-### 🔰 Welcome To My GitHub Profile 
+### **🔰 Welcome To My GitHub Profile**
 - 👤 **I'm Frenzy The Nightmares**
 - 🔭 **I'm 15 Years Old | 08 Mei 2008**
 - 🌱 **I'm Currently Learning JavaScript**
