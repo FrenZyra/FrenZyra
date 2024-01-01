@@ -5,8 +5,12 @@
 - ⚡ **I'm A Vocational High School Students**
 
 <p align="center">
+<a href="Frenzy"><img src="https://komarev.com/ghpvc/?username=frenzyra&label=Total%20Profile%20Visitor&color=ff00ff&style=for-the-badge" alt="frenzyra" />
+</a>
   <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=frenzyra&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="100%">
-  <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyra&langs_count=12&layout=compact&theme=vision-friendly-dark" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyra&bg_color=071A2C" />
+<a href="https://github.com/frenzyra/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frenzyra&theme=onedark">
 </p>
 
 ```rb
@@ -49,7 +53,7 @@ return FrenZyra.sendMessage(from, Profile, message)
 <details align="center"><summary><b>Github Statistics</b></summary><br>
   
 <div align="center">
-<a href="Frenzy"><img src="https://komarev.com/ghpvc/?username=frenzyra&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="frenzyra" /></a>
+
 <br>
 <a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
 <a href="https://github.com/frenzyra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frenzyra&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
