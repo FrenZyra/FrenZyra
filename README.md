@@ -1,4 +1,4 @@
-- 👤 **I'm Frenzy**
+- 👤 **I'm Frenzy Core Corporation**
 - 🔭 **I'm 15 Years Old | 08 Mei 2008**
 - 🌱 **I'm Currently Learning JavaScript**
 - 👯 **I'm Looking To Collaborate On Anyone**
