@@ -1,8 +1,3 @@
-- 👤 **I'm Frenzy**
-- 🌱 **I'm Currently Learning JavaScript**
-- 👯 **I'm Looking To Collaborate On Anyone**
-- ⚡ **I'm A Vocational High School Students**
-- 👸🏻 **I'm A'int Boys**
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFrenZyra&count_bg=%23FF0000&title_bg=%23000000&icon=azurefunctions.svg&icon_color=%23FF0000&title=FrenZyra+Visitors&edge_flat=false"/></a>
 </br>
